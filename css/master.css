@@ -1,0 +1,89 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.background{
+  background-color: black;
+}
+.whole-text{
+  color:#42f563;
+}
+.paragraph{
+  color:#42f563;
+}
+.image{
+  margin-left:-70%
+  }
+.text{
+  text-align: center;
+  border-style: solid;
+  border-color: #df03fc;
+  border-width: 15px;
+}
+.paragraphsize{
+  font-size: 21px;
+}
+.headingsize{
+  font-size: 23px;
+}
+.link{
+  font-size: 20pt;
+  margin-left: 30%;
+  width: 30%;
+  display: inline-block;
+}
+
+.link2{
+  font-size: 20pt;
+  margin-left: 0%;
+  width: 30%;
+  display: inline-block;
+}
+
+.link3{
+  font-size: 20pt;
+  text-align: center;
+  }
+
+.pic2background{
+  background-color: black;
+}
+
+.cat-toilet{
+  height:100px;
+  width: 200px;
+}
+
+.aboutparagraph{
+  color:#42f563;
+  text-align: center;
+}
+
+.aboutbody{
+  background-color: black;
+  text-align: center;
+  font-size: 16pt;
+  padding-top: 0px;
+  border-top: 15px;
+  border-bottom: 15px;
+  border-style: solid;
+  border-color: #df03fc;
+}
+
+.albumgif{
+  margin-right: 80%;
+  margin-top: -78%;
+}
+
+
+
+.weaselgif{
+margin-left: 73%;
+margin-top: -108.5%
+
+}
+
+.bakk{
+  background-color:black;
+}
